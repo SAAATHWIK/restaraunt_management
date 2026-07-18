@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Ordering System",
+  "description": "A comprehensive full-stack Restaurant Ordering System with Customer, Kitchen Staff, and Admin dashboards, featuring menu management, cart checkout, order tracking, real-time status updates, and sales analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
